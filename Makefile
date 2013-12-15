@@ -13,7 +13,7 @@ html:  clean $(HTML)
 	python2 resume.py html $(GRAVATAR_OPTION) < $< | pandoc -t html -c resume.css -o $@
 
 %.pdf:  %.md $(LATEX_TEMPLATE)
-	python2 resume.py tex < $< | pandoc --template=$(LATEX_TEMPLATE) -H header.tex -o $@
+	python2 resume.py tex < $< | pandoc -S --template=$(LATEX_TEMPLATE) -H header.tex -o $@
 
 clean:
 	rm -f *.html *.pdf
