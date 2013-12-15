@@ -21,17 +21,17 @@
 
 *   2013, **Développeur freelance**
 
-    Disponible pour du développement Ruby, administration système, et
-    développement opérationnel.
+    Disponible notamment pour du développement Ruby, administration système, et
+    développement opérationnel. Ouvert à tout autres propositions.
 
 *   2012 - 1 an, **Ingénieur développeur & Analyste** chez **Fraudbuster**,
     Marseille (5 personnes)
 
     Fraudbuster ([\url{http://fraudbuster.mobi/}](http://fraudbuster.mobi/))
     développe des outils de détection de la fraude sur les réseaux de
-    téléphonie mobile. Mes rôles allaient de la conception au développement de
-    ces outils en passant par la R\&D ainsi que l'administration système des 16
-    serveurs.
+    téléphonie mobile. Dans le cadre de la R&D, mon rôle a été de concevoir et
+    de développer ces outils. J'avais également pour tâche l'administration
+    système des 16 serveurs.
 
     -   **Technologies utilisées :** Perl, Redis et MySQL.
     -   **Administration système :** Debian, Apache, Postfix, déploiement de
@@ -43,11 +43,12 @@
     Recherche en Informatique et en Automatique)**, Nancy
 
     Modélisation du réseau neural responsable de différents
-    comportements lors de la locomotion chez le ver *C. elegans*. Sous la
+    comportements lors de la locomotion chez le ver *C.\ elegans* sous la
     supervision de [Thomas Voegtlin](http://www.loria.fr/~voegtlin/)
     (\url{http://www.loria.fr/~voegtlin/}).
 
-    **Mots clés :** Python, Numpy/Scipy, C++, Modélisation Neurale et physique, apprentissage automatique.
+    **Mots clés :** Python, Numpy/Scipy, C++, Modélisation Neurale et physique,
+    apprentissage automatique.
 
 *   2010 - 3 mois, **Stagiaire développeur web** chez **LeRoomService.com**,
     Marseille (4 personnes)
@@ -67,44 +68,49 @@
 ##Vie associative
 
 *   **Présente**
-    -   **Fablab Fribroug :** Un Fablab est en cours de création à Fribourg,
-        j'ai rejoinds l'équipe original pour les aiders à réaliser ce
-        projet.[\url{http://fablab-fribourg.ch/}](http://fablab-fribourg.ch/)
+    -   **Fablab Fribourg :** Un Fablab est en cours de création à Fribourg,
+        j'ai rejoins l'équipe originale pour les aider à réaliser ce
+        projet.\
+        [\url{http://fablab-fribourg.ch/}](http://fablab-fribourg.ch/)
+
     -   **FROSC :** **FR**ibourg **O**pen-**S**ource **C**ommunity, réunion
-        mensuel autours des sujet du logiciel libre.
+        mensuelle autours des sujets du logiciel libre.\
         [\url{http://www.frosc.ch}](http://www.frosc.ch).
+
     -   **Teleragno :** Fournisseur d'accès internet associatif à Marseille et
-        sa région. Trésorier 8 mois, actuellement membre.
+        sa région. Trésorier 8 mois, actuellement membre.\
         [\url{http://teleragno.fr}](http://www.teleragno.fr).
 
 *   **Passée**
     -   **Cryptoparty Marseille :** rassemblements dont le but est la
         vulgarisation et la propagation des outils de protection de la vie
-        privée en générale. J'y participais en tant qu'animateur et orateur.
+        privée en générale. J'y participais en tant qu'animateur et orateur.\
         [\url{http://cryptoparty.fr/wiki/Marseille}](http://cryptoparty.fr/wiki/Marseille)
-        & [\url{http://cryptoparty.org}](http://cryptoparty.org).
-    -   **PLUG :** **P**rovence **L**inux **U**ser **G**roup, organisation de
-        rassemblement mensuel informel autour des sujets du logiciel libre et
-        de Linux. [\url{http://plugfr.org}](http://www.plugfr.org).
+        & [\url{http://cryptoparty.org}](http://cryptoparty.org)
+
+    -   **PLUG :** **P**rovence **L**inux **U**ser **G**roup, réunion mensuelle
+        informelle autour des sujets du logiciel libre et de GNU/Linux.\
+        [\url{http://plugfr.org}](http://www.plugfr.org)
+
     -   **Pastis.rb :** rassemblement mensuel d'utilisateurs du langage Ruby,
-        autour de présentations ou simplement de discussions.
-        [\url{http://pastisrb.org}](http://pastisrb.org).
+        autour de présentations ou de discussions.\
+        [\url{http://pastisrb.org}](http://pastisrb.org)
 
 ##Projets personnels
 
 *   **Administration de mon réseau personnel :** 8 machines interconnectées, 1
     Windows, 1 Mac OS X, 6 GNU/Linux. Serveur de fichier (Samba), serveur web
-    (static, PHP et Ruby), serveur d'e-mail, noeud TOR, OpenVPN, git.
-*   **Open Source :** divers projet et participation distribués sous licence
+    (static, PHP et Ruby), serveur d'e-mail, noeud Tor, OpenVPN, git.
+*   **Open Source :** divers projets et participations distribués sous licence
     libre. (voir page GitHub en en-tête)
 
-*   **Passé :**
+*   **Passés :**
     -   **Réalisation d'un robot mobile contrôlé par radio :** Depuis la
         création des circuits jusqu'à la programmation PIC, Basic Stamp et du
         logiciel de contrôle sur ordinateur.
     -   **SSIK :** SSIK est un noyau multi-tâches ainsi qu'un ensemble de
-        programme utilisateur écris en C pour le processeur MIPS. Projet
-        universitaire écrit avec 2 autres étudiant. (voir page GitHub en
+        programmes utilisateurs écrit en C pour le processeur MIPS. Projet
+        universitaire écrit avec deux autres étudiants. (voir page GitHub en
         en-tête)
 
 ##Éducation
@@ -113,11 +119,11 @@
     option **Système d'Information Critique et Application**, ESIL (École
     Supérieure d'Ingénieurs de Luminy), Marseille.
 
-    L'ESIL à depuis fusionnée avec Polytech Marseille :
+    L'ESIL qui est désormais fusionnée avec Polytech Marseille :
     [\url{http://www.polytech-marseille.fr/}](http://www.polytech-marseille.fr/)
 
 *   2009 - 2010, **Étudiant Erasmus**, Université d'Uppsala, Suède. Échange
-    réalisé lors de ma deuxième année d'école d'ingénieur.
+    réalisé lors de ma deuxième année d'école d'ingénieurs.
 
 *   2005 - 2007, **DUT en Génie Biologique, option Bio-informatique**,
     Université de Clermont-Ferrand.
@@ -139,9 +145,9 @@
 
 *   **Voyage et séjour long à l'étranger.** (Tchad, Cameroun, Kenya, Suède,
     Suisse, Pays-Bas\dots)
-*   **Lectures :** littérature contemporaine (Dan Simmons, H. P. Lovecraft,
-    George R. R.  Martin, Peter Hamilton, \dots), diverses lectures
-    scientifiques (articles, livres, et sites web) et ouvrage technique.
+*   **Lectures :** littérature contemporaine (Dan\ Simmons, H.\ P.\ Lovecraft,
+    George\ R.\ R.\ Martin, Peter\ Hamilton, \dots), lectures scientifiques
+    (articles, livres, et sites web) et ouvrages techniques.
 *   **Photographie :** pratique amateur avec un reflex numérique
 *   **Sport :** aïkido, snowboard, yoga
 *   Pratique de la méditation Zen
