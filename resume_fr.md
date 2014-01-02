@@ -34,7 +34,7 @@
     système des 16 serveurs.
 
     -   **Technologies utilisées :** Perl, Redis et MySQL.
-    -   **Administration système :** Debian, Apache, Postfix, déploiement de
+    -   **Administration système :** Debian, Apache, Postfix, IPSec, déploiement de
         serveur.
     -   **Analyse de la fraude :** recherche et développement de nouvelles
         techniques de détection de la fraude.
