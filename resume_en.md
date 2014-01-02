@@ -21,114 +21,109 @@
 
 *   2013, **Freelance developper**
 
-    Available for Ruby developper, system administration and devops.
+    Available mainly for Ruby development, system administration and devops.
+    Open to all propositions.
 
-*   2012 - 1 an, **Developer \& System analyst** at **Fraudbuster**,
+*   2012 - 1 year, **Developer \& System analyst** at **Fraudbuster**,
     Marseille, France (5 people)
 
-   The goal of Fraudbuster
-   ([\url{http://fraudbuster.mobi/}](http://fraudbuster.mobi/)) is to detect
-   and prevent fraud on mobile phone networks. My roles w
-    -   Analyze software/library solutions usable for the application.
-    -   Found and optimise bottleneck.
-    -   Implement solution found.
-    -   Administration of the application server.
+    The goal of Fraudbuster
+    ([\url{http://fraudbuster.mobi/}](http://fraudbuster.mobi/)) is to develops
+    tools to detect and prevent fraud on mobile phone networks. My roles were to
+    design and develops this tools. I was also doing system administration of
+    our 16 servers.
 
+    -   **Technology:** Perl, Redis, MySQL.
+    -   **System administration:** Debian, Apache, Postfix, IPSec, server
+        deployement.
+    -   **Fraud analysis:** research and development of new detection
+        techniques.
 
-    Fraudbuster ([\url{http://fraudbuster.mobi/}](http://fraudbuster.mobi/))
-    développe des outils de détection de la fraude sur les réseaux de
-    téléphonie mobile. Mes rôles allaient de la conception au développement de
-    ces outils en passant par la R\&D ainsi que l'administration système des 16
-    serveurs.
+*   2011 - 6 months, **Research intern** at **INRIA (National Institute for
+    Research in Computer Science and Control)**, Nancy, France
 
-    -   **Technologies utilisées :** Perl, Redis et MySQL.
-    -   **Administration système :** Debian, Apache, Postfix, déploiement de
-        serveur.
-    -   **Analyse de la fraude :** recherche et développement de nouvelles
-        techniques de détection de la fraude.
-
-*   2011 - 6 mois, **Stagiaire en recherche** à l'**INRIA (Institut National de
-    Recherche en Informatique et en Automatique)**, Nancy
-
-    Modélisation du réseau neural responsable de différents
-    comportements lors de la locomotion chez le ver *C. elegans*. Sous la
-    supervision de [Thomas Voegtlin](http://www.loria.fr/~voegtlin/)
+    Modelisation and simulation of the neuronal network responsible for
+    different locomotion patterns in the *C.\ elegans* worm. Under the
+    supervision of [Thomas Voegtlin](http://www.loria.fr/~voegtlin/)
     (\url{http://www.loria.fr/~voegtlin/}).
 
-    **Mots clés :** Python, Numpy/Scipy, C++, Modélisation Neurale et physique, apprentissage automatique.
+    **Keywords:** Python, Numpy/Scipy, C++, Neuronal and physical modelisation,
+    machine learning.
 
-*   2010 - 3 mois, **Stagiaire développeur web** chez **LeRoomService.com**,
-    Marseille (4 personnes)
+*   2010 - 3 months, **Intern web developer** at **LeRoomService.com**,
+    Marseille, France (4 people)
 
-    Développement d'une application de newsletter géolocalisée, maintenance et
-    configuration des serveurs de production et de développement.
+    My internship was dedicated to create a geolocated newsletter application and to
+    maintain and configure developments and productions servers.
 
-    **Mots clés :** Debian, PHP, MySQL, API Google Chart
+    **Keywords:** Debian, PHP, MySQL, API Google Chart
 
-*   2007 - 3 mois, 2008 - 2 mois, **Stagiaire développeur logiciel** au **Plant
-    Research International**, Wageningen (Pays-Bas).
+*   2007 - 3 months, 2008 - 2 months, **Intern software developer** at the
+    **Plant Research Internationl**, Wageningen, Netherland
 
-    Création d'une application de simulation de fixation de sonde à ADN.
+    Creation of an application simulating ADN probing.
 
-    **Technologies utilisées :** Java/BioJava, Perl/Bioperl.
+    **Keywords:** Java/BioJava, Perl/Bioperl.
 
-##Vie associative
+##Non-profit works
 
-*   **Présente**
-    -   **Fablab Fribroug :** Un Fablab est en cours de création à Fribourg,
-        j'ai rejoinds l'équipe original pour les aiders à réaliser ce
-        projet.[\url{http://fablab-fribourg.ch/}](http://fablab-fribourg.ch/)
-    -   **FROSC :** **FR**ibourg **O**pen-**S**ource **C**ommunity, réunion
-        mensuel autours des sujet du logiciel libre.
+*   **Currents**
+    -   **Fablab Fribroug :** A Fablab is currently being created in Fribourg,
+        I have join the original team to help them.\
+        [\url{http://fablab-fribourg.ch/}](http://fablab-fribourg.ch/)
+
+    -   **FROSC :** **FR**ibourg **O**pen-**S**ource **C**ommunity, user group
+        about free software.\
         [\url{http://www.frosc.ch}](http://www.frosc.ch).
-    -   **Teleragno :** Fournisseur d'accès internet associatif à Marseille et
-        sa région. Trésorier 8 mois, actuellement membre.
+
+    -   **Teleragno :** non-profit internet service provider in Marseille.
+        Treasurer during 8 months, currently member.\
         [\url{http://teleragno.fr}](http://www.teleragno.fr).
 
-*   **Passée**
-    -   **Cryptoparty Marseille :** rassemblements dont le but est la
-        vulgarisation et la propagation des outils de protection de la vie
-        privée en générale. J'y participais en tant qu'animateur et orateur.
+*   **Past**
+    -   **Cryptoparty Marseille :**  CryptoParties are free to attend, public,
+        and commercially and politically non-aligned, to help people protecting
+        there privacy on computer and online. I was organizer and speacker.\
         [\url{http://cryptoparty.fr/wiki/Marseille}](http://cryptoparty.fr/wiki/Marseille)
-        & [\url{http://cryptoparty.org}](http://cryptoparty.org).
-    -   **PLUG :** **P**rovence **L**inux **U**ser **G**roup, organisation de
-        rassemblement mensuel informel autour des sujets du logiciel libre et
-        de Linux. [\url{http://plugfr.org}](http://www.plugfr.org).
-    -   **Pastis.rb :** rassemblement mensuel d'utilisateurs du langage Ruby,
-        autour de présentations ou simplement de discussions.
+        & [\url{http://cryptoparty.in}](http://cryptoparty.in).
+
+    -   **PLUG :** **P**rovence **L**inux **U**ser **G**roup, linux user group
+        in Marseille.\
+        [\url{http://plugfr.org}](http://www.plugfr.org).
+
+    -   **Pastis.rb :** Ruby user group in Marseille.\
         [\url{http://pastisrb.org}](http://pastisrb.org).
 
-##Projets personnels
+##Personnal Work
 
-*   **Administration de mon réseau personnel :** 8 machines interconnectées, 1
-    Windows, 1 Mac OS X, 6 GNU/Linux. Serveur de fichier (Samba), serveur web
-    (static, PHP et Ruby), serveur d'e-mail, noeud TOR, OpenVPN, git.
-*   **Open Source :** divers projet et participation distribués sous licence
-    libre. (voir page GitHub en en-tête)
+*   **Personnal network administration:** 8 computers interconnectées, 1
+    Windows, 1 Mac OS X, 6 GNU/Linux. Files server (Samba), web serveur
+    (static, PHP and Ruby), e-mail server (OpenSMTPD), Tor node, OpenVPN, git.
+*   **Open Source:** various project and participation. (see my GitHub account)
 
-*   **Passé :**
-    -   **Réalisation d'un robot mobile contrôlé par radio :** Depuis la
+*   **Past:**
+    -   **Small radio controlled robot:** Depuis la
         création des circuits jusqu'à la programmation PIC, Basic Stamp et du
         logiciel de contrôle sur ordinateur.
-    -   **SSIK :** SSIK est un noyau multi-tâches ainsi qu'un ensemble de
-        programme utilisateur écris en C pour le processeur MIPS. Projet
-        universitaire écrit avec 2 autres étudiant. (voir page GitHub en
-        en-tête)
+    -   **SSIK :** SSIK is a multi-task kernel and a set of userland software
+        write in C for the MIPS processor. University project writed with 2 others
+        student. (see my GitHub account)
 
-##Éducation
+##Education
 
-*   2007 - 2011, **Ingénieur** en **Informatique Réseaux et Multimédia**,
-    option **Système d'Information Critique et Application**, ESIL (École
-    Supérieure d'Ingénieurs de Luminy), Marseille.
+*   2007 - 2011, **Engineer** in **Computer Science**, major in **Critical
+    Information Systems and Application**, at ESIL (School of Advanced Studies
+    in Engineering), Marseille (France).
 
-    L'ESIL à depuis fusionnée avec Polytech Marseille :
+    Equivalent to a Master's Degree in Engineering. The ESIL as merged with
+    Polytech Marseille since:
     [\url{http://www.polytech-marseille.fr/}](http://www.polytech-marseille.fr/)
 
-*   2009 - 2010, **Étudiant Erasmus**, Université d'Uppsala, Suède. Échange
-    réalisé lors de ma deuxième année d'école d'ingénieur.
+*   2009 - 2010, **Exchange Student** at the Uppsala university, Sweden.
+    First year of Computer Science Master's.
 
-*   2005 - 2007, **DUT en Génie Biologique, option Bio-informatique**,
-    Université de Clermont-Ferrand.
+*   2005 - 2007, **Technical degree** in **Bioinformatics**, University of
+    Clermont-Ferrand, France.
 
 *   2004 - 2005, **Première année de CPGE en Physique, Chimie, Science de
     l'Ingénieur**, Lycée Alphonse Daudet, Nîmes.
@@ -136,20 +131,27 @@
 *   Juin 2004, **Baccalauréat Scientifique spécialité Physique Chimie, option
     Arts appliqués**
 
-##Langue
+*   2004 - 2005, First year of CPGE in **Mathematics, Physics and Chemistry**
+    at Nîmes, France.  CPGE are selective preparatory classes leading to French
+    elite institutes.
 
-*   **Français** : langue maternelle
-*   **Anglais** : courant, 5 mois de stage aux Pays-Bas, 1 an de cours en
-    anglais en Suède, usage quotidien (lecture, écriture). **Score TOEIC
-    2010** : 935/990.
+*   June 2004, Baccalaureat in **Physics and Chemistry** with a minor in **fine
+    arts**. Equivalent of A-level in science.
 
-##Activités
+##Languages
 
-*   **Voyage et séjour long à l'étranger.** (Tchad, Cameroun, Kenya, Suède,
-    Suisse, Pays-Bas\dots)
-*   **Lectures :** littérature contemporaine (Dan Simmons, H. P. Lovecraft,
-    George R. R.  Martin, Peter Hamilton, \dots), diverses lectures
-    scientifiques (articles, livres, et sites web) et ouvrage technique.
-*   **Photographie :** pratique amateur avec un reflex numérique
+*   **French:** mother tongue
+*   **English:** fluent, worked and studying more than 1 years in english
+    speaking context, daily use (reading and writing). **TOEIC Score (2010):**
+    935/990.
+
+##Interest
+
+*   **Travelling and long stay abroad.** (Tchad, Cameroun, Kenya, Sweden,
+    Switzerland, Netherland\dots).
+*   **Reading:** contemporary literature (Dan Simmons, H. P. Lovecraft, George
+    R. R.  Martin, Peter Hamilton, \dots), various scientific reading
+    (articles, books, news website) and technical books.
+*   **Photography :** learning to use my DSLR camera
 *   **Sport :** aïkido, snowboard, yoga
-*   Pratique de la méditation Zen
+*   Zen meditation
