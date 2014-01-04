@@ -19,7 +19,7 @@
 
 ##Work
 
-*   2013, **Freelance developper**
+*   2013, **Freelance developer**
 
     Available mainly for Ruby development, system administration and devops.
     Open to all propositions.
@@ -28,14 +28,13 @@
     Marseille, France (5 people)
 
     The goal of Fraudbuster
-    ([\url{http://fraudbuster.mobi/}](http://fraudbuster.mobi/)) is to develops
+    ([\url{http://fraudbuster.mobi/}](http://fraudbuster.mobi/)) is to develop
     tools to detect and prevent fraud on mobile phone networks. My roles were to
-    design and develops this tools. I was also doing system administration of
-    our 16 servers.
+    design and develop these tools as well as administrating our 16 servers.
 
     -   **Technology:** Perl, Redis, MySQL.
     -   **System administration:** Debian, Apache, Postfix, IPSec, server
-        deployement.
+        deployment.
     -   **Fraud analysis:** research and development of new detection
         techniques.
 
@@ -54,12 +53,12 @@
     Marseille, France (4 people)
 
     My internship was dedicated to create a geolocated newsletter application and to
-    maintain and configure developments and productions servers.
+    administrate developments and productions servers.
 
-    **Keywords:** Debian, PHP, MySQL, API Google Chart
+    **Keywords:** Debian, PHP, MySQL, Google Chart API
 
 *   2007 - 3 months, 2008 - 2 months, **Intern software developer** at the
-    **Plant Research Internationl**, Wageningen, Netherland
+    **Plant Research International**, Wageningen, Netherlands
 
     Creation of an application simulating ADN probing.
 
@@ -76,14 +75,14 @@
         about free software.\
         [\url{http://www.frosc.ch}](http://www.frosc.ch).
 
-    -   **Teleragno :** non-profit internet service provider in Marseille.
+    -   **Teleragno :** do-it-yourself internet service provider in Marseille.
         Treasurer during 8 months, currently member.\
         [\url{http://teleragno.fr}](http://www.teleragno.fr).
 
 *   **Past**
-    -   **Cryptoparty Marseille :**  CryptoParties are free to attend, public,
-        and commercially and politically non-aligned, to help people protecting
-        there privacy on computer and online. I was organizer and speacker.\
+    -   **CryptoParty Marseille :**  CryptoParties are free to attend, public,
+        commercially and politically non-aligned events to help people protecting
+        there privacy on computer and online. I was organizer and speaker.\
         [\url{http://cryptoparty.fr/wiki/Marseille}](http://cryptoparty.fr/wiki/Marseille)
         & [\url{http://cryptoparty.in}](http://cryptoparty.in).
 
@@ -94,20 +93,18 @@
     -   **Pastis.rb :** Ruby user group in Marseille.\
         [\url{http://pastisrb.org}](http://pastisrb.org).
 
-##Personnal Work
+##Personal Work
 
-*   **Personnal network administration:** 8 computers interconnectées, 1
-    Windows, 1 Mac OS X, 6 GNU/Linux. Files server (Samba), web serveur
+*   **Personal network administration:** 8 computers, 1
+    Windows, 1 Mac OS X, 6 GNU/Linux. Files server (Samba), web server
     (static, PHP and Ruby), e-mail server (OpenSMTPD), Tor node, OpenVPN, git.
-*   **Open Source:** various project and participation. (see my GitHub account)
+*   **Open Source:** various projects and participation. (see my GitHub account)
 
 *   **Past:**
-    -   **Small radio controlled robot:** Depuis la
-        création des circuits jusqu'à la programmation PIC, Basic Stamp et du
-        logiciel de contrôle sur ordinateur.
+    -   **Small radio controlled robot:** University project with one other student, including circuit board design, soldering, microcontroller (PIC, Basic Stamp) and desktop control software development.
     -   **SSIK :** SSIK is a multi-task kernel and a set of userland software
-        write in C for the MIPS processor. University project writed with 2 others
-        student. (see my GitHub account)
+        write in C for the MIPS processor. University project wrote with two others
+        students. (see my GitHub account)
 
 ##Education
 
@@ -116,20 +113,14 @@
     in Engineering), Marseille (France).
 
     Equivalent to a Master's Degree in Engineering. The ESIL as merged with
-    Polytech Marseille since:
+    Polytech Marseille since 2012:
     [\url{http://www.polytech-marseille.fr/}](http://www.polytech-marseille.fr/)
 
-*   2009 - 2010, **Exchange Student** at the Uppsala university, Sweden.
+*   2009 - 2010, **Exchange Student** at the Uppsala University, Sweden.
     First year of Computer Science Master's.
 
 *   2005 - 2007, **Technical degree** in **Bioinformatics**, University of
     Clermont-Ferrand, France.
-
-*   2004 - 2005, **Première année de CPGE en Physique, Chimie, Science de
-    l'Ingénieur**, Lycée Alphonse Daudet, Nîmes.
-
-*   Juin 2004, **Baccalauréat Scientifique spécialité Physique Chimie, option
-    Arts appliqués**
 
 *   2004 - 2005, First year of CPGE in **Mathematics, Physics and Chemistry**
     at Nîmes, France.  CPGE are selective preparatory classes leading to French
@@ -141,17 +132,16 @@
 ##Languages
 
 *   **French:** mother tongue
-*   **English:** fluent, worked and studying more than 1 years in english
+*   **English:** fluent, worked and studying for more than 1 year in English
     speaking context, daily use (reading and writing). **TOEIC Score (2010):**
     935/990.
 
 ##Interest
 
-*   **Travelling and long stay abroad.** (Tchad, Cameroun, Kenya, Sweden,
-    Switzerland, Netherland\dots).
+*   **Traveling and long stay abroad.** (Chad, Cameroon, Haiti, Kenya, Netherlands, Sweden, Switzerland\dots).
 *   **Reading:** contemporary literature (Dan Simmons, H. P. Lovecraft, George
-    R. R.  Martin, Peter Hamilton, \dots), various scientific reading
+    R. R.  Martin, Peter Hamilton\dots), various scientific reading
     (articles, books, news website) and technical books.
 *   **Photography :** learning to use my DSLR camera
-*   **Sport :** aïkido, snowboard, yoga
+*   **Sport :** aikido, snowboard, yoga
 *   Zen meditation
