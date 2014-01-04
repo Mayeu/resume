@@ -3,7 +3,7 @@
 
 \textsc{Place of birth:} Paris, France | 1986\\
 \textsc{Phone:} +33 (0) 7 86 45 65 95\\
-\textsc{e-mail:} [\url{m@6x9.fr}](mailto:m@6x9.fr)\\
+\textsc{e-mail:} \url{m@6x9.fr}\\
 \textsc{Website:} [\url{http://6x9.fr}](http://6x9.fr)\\
 \textsc{Github:} [\url{https://github.com/Mayeu}](https://github.com/Mayeu)
 
@@ -30,7 +30,7 @@
     The goal of Fraudbuster
     ([\url{http://fraudbuster.mobi/}](http://fraudbuster.mobi/)) is to develop
     tools to detect and prevent fraud on mobile phone networks. My roles were
-    to design and develop these tools as well as administrating our 16 servers.
+    to design and develop these tools as well as administrating the 16 servers.
 
     -   **Technology:** Perl, Redis, MySQL.
     -   **System administration:** Debian, Apache, Postfix, IPSec, server
@@ -68,7 +68,7 @@
 
 *   **Currents**
     -   **Fablab Fribroug :** A Fablab is currently being created in Fribourg,
-        I have join the original team to help them.\
+        I have joined the original team to help them.\
         [\url{http://fablab-fribourg.ch/}](http://fablab-fribourg.ch/)
 
     -   **FROSC :** **FR**ibourg **O**pen-**S**ource **C**ommunity, user group
@@ -99,8 +99,8 @@
 *   **Personal network administration:** 8 computers, 1 Windows, 1 Mac OS X, 6
     GNU/Linux. Files server (Samba), web server (static, PHP and Ruby), e-mail
     server (OpenSMTPD), Tor node, OpenVPN, git.
-*   **Open Source:** various projects and participation. (see my GitHub
-    account)
+*   **Open Source:** various projects and participation. ([see my GitHub
+    account](https://github.com/Mayeu))
 
 *   **Past:**
     -   **Small radio controlled robot:** University project with one other
@@ -108,7 +108,8 @@
         (PIC, Basic Stamp) and desktop control software development.
     -   **SSIK :** SSIK is a multi-task kernel and a set of userland software
         written in C for the MIPS processor. University project wrote with two
-        others students. (see my GitHub account)
+        others students. ([see my GitHub
+        account](https://github.com/Mayeu/OS-Project-SSIK))
 
 ##Education
 
