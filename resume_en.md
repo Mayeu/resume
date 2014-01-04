@@ -29,8 +29,8 @@
 
     The goal of Fraudbuster
     ([\url{http://fraudbuster.mobi/}](http://fraudbuster.mobi/)) is to develop
-    tools to detect and prevent fraud on mobile phone networks. My roles were to
-    design and develop these tools as well as administrating our 16 servers.
+    tools to detect and prevent fraud on mobile phone networks. My roles were
+    to design and develop these tools as well as administrating our 16 servers.
 
     -   **Technology:** Perl, Redis, MySQL.
     -   **System administration:** Debian, Apache, Postfix, IPSec, server
@@ -38,8 +38,8 @@
     -   **Fraud analysis:** research and development of new detection
         techniques.
 
-*   2011 - 6 months, **Research intern** at **INRIA (National Institute for
-    Research in Computer Science and Control)**, Nancy, France
+*   2011 - 6 months, **Research intern** at **INRIA** (National Institute for
+    Research in Computer Science and Control), Nancy, France
 
     Modelisation and simulation of the neuronal network responsible for
     different locomotion patterns in the *C.\ elegans* worm. Under the
@@ -52,8 +52,8 @@
 *   2010 - 3 months, **Intern web developer** at **LeRoomService.com**,
     Marseille, France (4 people)
 
-    My internship was dedicated to create a geolocated newsletter application and to
-    administrate developments and productions servers.
+    My internship was dedicated to create a geolocated newsletter application
+    and to administrate developments and productions servers.
 
     **Keywords:** Debian, PHP, MySQL, Google Chart API
 
@@ -81,8 +81,9 @@
 
 *   **Past**
     -   **CryptoParty Marseille :**  CryptoParties are free to attend, public,
-        commercially and politically non-aligned events to help people protecting
-        their privacy on computer and online. I was organizer and speaker.\
+        commercially and politically non-aligned events to help people
+        protecting their privacy on computer and online. I was organizer and
+        speaker.\
         [\url{http://cryptoparty.fr/wiki/Marseille}](http://cryptoparty.fr/wiki/Marseille)
         & [\url{http://cryptoparty.in}](http://cryptoparty.in).
 
@@ -95,16 +96,19 @@
 
 ##Personal Work
 
-*   **Personal network administration:** 8 computers, 1
-    Windows, 1 Mac OS X, 6 GNU/Linux. Files server (Samba), web server
-    (static, PHP and Ruby), e-mail server (OpenSMTPD), Tor node, OpenVPN, git.
-*   **Open Source:** various projects and participation. (see my GitHub account)
+*   **Personal network administration:** 8 computers, 1 Windows, 1 Mac OS X, 6
+    GNU/Linux. Files server (Samba), web server (static, PHP and Ruby), e-mail
+    server (OpenSMTPD), Tor node, OpenVPN, git.
+*   **Open Source:** various projects and participation. (see my GitHub
+    account)
 
 *   **Past:**
-    -   **Small radio controlled robot:** University project with one other student, including circuit board design, soldering, microcontroller (PIC, Basic Stamp) and desktop control software development.
+    -   **Small radio controlled robot:** University project with one other
+        student, including circuit board design, soldering, microcontroller
+        (PIC, Basic Stamp) and desktop control software development.
     -   **SSIK :** SSIK is a multi-task kernel and a set of userland software
-        written in C for the MIPS processor. University project wrote with two others
-        students. (see my GitHub account)
+        written in C for the MIPS processor. University project wrote with two
+        others students. (see my GitHub account)
 
 ##Education
 
@@ -112,12 +116,12 @@
     Information Systems and Application**, at ESIL (School of Advanced Studies
     in Engineering), Marseille (France).
 
-    Equivalent to a Master's Degree in Engineering. The ESIL has been merged with
-    Polytech Marseille since 2012:
+    Equivalent to a Master's Degree in Engineering. The ESIL has been merged
+    with Polytech Marseille since 2012:
     [\url{http://www.polytech-marseille.fr/}](http://www.polytech-marseille.fr/)
 
-*   2009 - 2010, **Exchange Student** at the Uppsala University, Sweden.
-    First year of Computer Science Master's.
+*   2009 - 2010, **Exchange Student** at the Uppsala University, Sweden.  First
+    year of Computer Science Master's.
 
 *   2005 - 2007, **Technical degree** in **Bioinformatics**, University of
     Clermont-Ferrand, France.
@@ -138,10 +142,11 @@
 
 ##Interest
 
-*   **Traveling and long stay abroad.** (Chad, Cameroon, Haiti, Kenya, Netherlands, Sweden, Switzerland\dots).
+*   **Traveling and long stay abroad.** (Chad, Cameroon, Haiti, Kenya,
+    Netherlands, Sweden, Switzerland\dots).
 *   **Reading:** contemporary literature (Dan Simmons, H. P. Lovecraft, George
-    R. R.  Martin, Peter Hamilton\dots), various scientific reading
-    (articles, books, news website) and technical books.
+    R. R.  Martin, Peter Hamilton\dots), various scientific reading (articles,
+    books, news website) and technical books.
 *   **Photography :** learning how to use my DSLR camera
 *   **Sport :** aikido, snowboard, yoga
 *   Zen meditation
