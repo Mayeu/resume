@@ -82,7 +82,7 @@
 *   **Past**
     -   **CryptoParty Marseille :**  CryptoParties are free to attend, public,
         commercially and politically non-aligned events to help people protecting
-        there privacy on computer and online. I was organizer and speaker.\
+        their privacy on computer and online. I was organizer and speaker.\
         [\url{http://cryptoparty.fr/wiki/Marseille}](http://cryptoparty.fr/wiki/Marseille)
         & [\url{http://cryptoparty.in}](http://cryptoparty.in).
 
@@ -103,7 +103,7 @@
 *   **Past:**
     -   **Small radio controlled robot:** University project with one other student, including circuit board design, soldering, microcontroller (PIC, Basic Stamp) and desktop control software development.
     -   **SSIK :** SSIK is a multi-task kernel and a set of userland software
-        write in C for the MIPS processor. University project wrote with two others
+        written in C for the MIPS processor. University project wrote with two others
         students. (see my GitHub account)
 
 ##Education
@@ -112,7 +112,7 @@
     Information Systems and Application**, at ESIL (School of Advanced Studies
     in Engineering), Marseille (France).
 
-    Equivalent to a Master's Degree in Engineering. The ESIL as merged with
+    Equivalent to a Master's Degree in Engineering. The ESIL has been merged with
     Polytech Marseille since 2012:
     [\url{http://www.polytech-marseille.fr/}](http://www.polytech-marseille.fr/)
 
@@ -127,12 +127,12 @@
     elite institutes.
 
 *   June 2004, Baccalaureat in **Physics and Chemistry** with a minor in **fine
-    arts**. Equivalent of A-level in science.
+    arts**. Equivalent of Maturité/Matura in science.
 
 ##Languages
 
 *   **French:** mother tongue
-*   **English:** fluent, worked and studying for more than 1 year in English
+*   **English:** fluent, worked and studying for more than a year in English
     speaking context, daily use (reading and writing). **TOEIC Score (2010):**
     935/990.
 
@@ -142,6 +142,6 @@
 *   **Reading:** contemporary literature (Dan Simmons, H. P. Lovecraft, George
     R. R.  Martin, Peter Hamilton\dots), various scientific reading
     (articles, books, news website) and technical books.
-*   **Photography :** learning to use my DSLR camera
+*   **Photography :** learning how to use my DSLR camera
 *   **Sport :** aikido, snowboard, yoga
 *   Zen meditation
