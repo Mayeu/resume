@@ -9,13 +9,13 @@
 
 ##Skills
 
-*   **Unix:** GNU/Linux (Archlinux, Debian) \& Mac OS X
-*   **Programming language:** C, Go, Perl, Ruby
-*   **Database** : MySQL, Redis
-*   **System administration**
-*   **Devops** : Ansible, Chef, Docker, Vagrant
+*   **Unix:** GNU/Linux (Archlinux, **Debian**, **Ubuntu**) \& Mac OS X
+*   **Programming language:** C, Go, PHP, Perl, Python, Ruby
+*   **Database:** MySQL, Redis
+*   **System administration:** Apache, Dovecot, OpenSMTPD, Nagios, Postfix
+*   **Devops:** Ansible, Chef, Docker, Vagrant
+*   **Network:** Firewall, OpenVPN, Samba
 *   **Security**
-*   **Network**
 
 ##Work
 
@@ -33,8 +33,8 @@
     to design and develop these tools as well as administrating the 16 servers.
 
     -   **Technology:** Perl, Redis, MySQL.
-    -   **System administration:** Debian, Apache, Postfix, IPSec, server
-        deployment.
+    -   **System administration:** **Debian**, Apache, Postfix, IPSec, Nagios,
+        server deployment.
     -   **Fraud analysis:** research and development of new detection
         techniques.
 
@@ -55,7 +55,7 @@
     My internship was dedicated to create a geolocated newsletter application
     and to administrate developments and productions servers.
 
-    **Keywords:** Debian, PHP, MySQL, Google Chart API
+    **Keywords:** **Debian**, PHP, MySQL, Google Chart API
 
 *   2007 - 3 months, 2008 - 2 months, **Intern software developer** at the
     **Plant Research International**, Wageningen, Netherlands
@@ -97,8 +97,9 @@
 ##Personal Work
 
 *   **Personal network administration:** 8 computers, 1 Windows, 1 Mac OS X, 6
-    GNU/Linux. Files server (Samba), web server (static, PHP and Ruby), e-mail
-    server (OpenSMTPD), Tor node, OpenVPN, git.
+    GNU/Linux (Archlinux, Debian, Ubuntu). Files server (**Samba**), web server
+    (static, PHP and Ruby), e-mail server (OpenSMTPD), Tor node, **OpenVPN**,
+    git.
 *   **Open Source:** various projects and participation. ([see my GitHub
     account](https://github.com/Mayeu))
 
