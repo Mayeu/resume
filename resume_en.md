@@ -30,7 +30,7 @@
     The goal of Fraudbuster
     ([\url{http://fraudbuster.mobi/}](http://fraudbuster.mobi/)) is to develop
     tools to detect and prevent fraud on mobile phone networks. My roles were
-    to design and develop these tools as well as administrating the 16 servers.
+    to design and develop these tools as well as **administrating the 16 servers**.
 
     -   **Technology:** Perl, Redis, MySQL.
     -   **System administration:** **Debian**, Apache, Postfix, IPSec, Nagios,
@@ -53,7 +53,7 @@
     Marseille, France (4 people)
 
     My internship was dedicated to create a geolocated newsletter application
-    and to administrate developments and productions servers.
+    and to **administrate developments and productions servers**.
 
     **Keywords:** **Debian**, PHP, MySQL, Google Chart API
 
@@ -97,9 +97,9 @@
 ##Personal Work
 
 *   **Personal network administration:** 8 computers, 1 Windows, 1 Mac OS X, 6
-    GNU/Linux (Archlinux, Debian, Ubuntu). Files server (**Samba**), web server
-    (static, PHP and Ruby), e-mail server (OpenSMTPD), Tor node, **OpenVPN**,
-    git.
+    GNU/Linux (Archlinux, **Debian**, **Ubuntu**). This include, files server
+    (**Samba**), **web server** (static, PHP and Ruby), e-mail server (OpenSMTPD),
+    Tor node, **OpenVPN**, git.
 *   **Open Source:** various projects and participation. ([see my GitHub
     account](https://github.com/Mayeu))
 
